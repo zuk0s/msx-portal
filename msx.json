@@ -1,12 +1,22 @@
+json
 {
-  "name": "Deeplex (Rezka)",
-  "icon": "https://deeplex.ru",
-  "type": "link",
-  "data": "https://deeplex.ru"
-},
-{
-  "name": "Bazinga (Rezka)",
-  "icon": "https://bazinga.tv",
-  "type": "link",
-  "data": "https://bazinga.tv"
+  "name": "Мой Кастомный Портал",
+  "version": "1.0.0",
+  "icon": "https://icons8.com",
+  "background": "https://unsplash.com",
+  "menu": [
+    {
+      "name": "Deeplex (Rezka)",
+      "icon": "https://deeplex.ru",
+      "type": "link",
+      "data": "https://deeplex.ru"
+    },
+    {
+      "name": "Bazinga (Rezka)",
+      "icon": "https://bazinga.tv",
+      "type": "link",
+      "data": "https://bazinga.tv"
+    }
+  ]
 }
+
